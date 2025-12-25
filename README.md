@@ -25,3 +25,9 @@ This project leverages Machine Learning to enhance supply chain efficiency using
 
 ## Results
 The model successfully identifies patterns in weekly demand, allowing for a forecasted safety stock that adapts to market trends, significantly improving replenishment strategy accuracy.
+
+## Key Results & Impact
+- **Data Scale**: Processed and analyzed 180,519 supply chain records.
+- **Accuracy**: Achieved a Training RMSE of 122.34 and Testing RMSE of 204.48 using Prophet, capturing complex weekly and yearly seasonality.
+- **Service Level**: Implemented a 95% service level target in the Safety Stock model to balance inventory costs vs. customer satisfaction.
+- **Fulfillment Visibility**: Analyzed the gap between 'Scheduled' and 'Real' shipping days to provide realistic lead-time expectations for ROP (Reorder Point) calculations.
