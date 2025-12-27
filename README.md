@@ -1,7 +1,7 @@
 # Supply Chain Demand Forecasting & Inventory Optimization
 
 ## Project Overview
-This project leverages Machine Learning to enhance supply chain efficiency using the **DataCo Smart Supply Chain Dataset**. The goal is to predict future product demand and determine optimal inventory levels (Safety Stock and Reorder Points) to prevent stockouts while minimizing overstock.
+This project leverages Machine Learning to enhance supply chain efficiency using the **DataCo Smart Supply Chain Dataset**. The goal is to predict future product demand and lead time and determine optimal inventory levels (Safety Stock and Reorder Points) to prevent stockouts while minimizing overstock.
 
 ## Key Features
 - **Data Cleaning**: Standardized column names, handled missing values, and converted order/shipping dates into time-series formats.
